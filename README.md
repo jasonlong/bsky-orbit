@@ -62,6 +62,15 @@ Rank  Account                      Followers    In Common
 'In Common' = how many of your follows also follow this account
 ```
 
+Markdown output (`bsky-orbit-jasonlong.me.md`):
+
+| Rank | Account | Followers | In Common | Bio |
+|------|---------|-----------|-----------|-----|
+| 1 | [Jay 🦋](https://bsky.app/profile/jay.bsky.team) | 595.3K | 55 | CEO of Bluesky, steward of AT Protocol. |
+| 2 | [Brian Lovin](https://bsky.app/profile/brianlovin.com) | 6.6K | 50 | Co-founder of Campsite |
+| 3 | [dan](https://bsky.app/profile/danabra.mov) | 62.2K | 47 | falling down in the green grass |
+| ... | | | | |
+
 ## Building from source
 
 ```bash
